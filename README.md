@@ -37,5 +37,5 @@ Found a bug or have a great idea? Email me at **sio.edison826@gmail.com** with:
 
 ## Legal
 
-- [Privacy Policy](https://textshot.app/privacy)
-- [Terms of Service](https://textshot.app/terms)
+- [Privacy Policy](https://github.com/edison-sio/textshot-support/blob/main/PRIVACY.md)
+- [Terms of Service](https://github.com/edison-sio/textshot-support/blob/main/TERMS.md)
