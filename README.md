@@ -1,5 +1,9 @@
 # TextShot Support
 
+TextShot is a content creation tool that lets you create beautiful chat-style mockups for storytelling, social media content, and UI design.
+
+---
+
 ## Get in Touch
 
 For bugs, feature requests, or general questions:
